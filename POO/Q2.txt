@@ -1,0 +1,8 @@
+Q: For which case would the use of a static attribute be appropriate?
+R: the weather conditions for each house in a small neighborhood
+T: Static Attributes
+E: When you want to have a variable that always has the same value for every object of the class, 
+forever and ever, make it static. A (simplified) way to think of it is that a non-static member 
+(field, method) is one which is provided by an instance, while a static member is one which 
+is provided by a class.
+

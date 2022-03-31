@@ -1,0 +1,10 @@
+Q: What is an example of dynamic binding?
+R: Method overriding
+T: Method overriding
+E: Static Binding or Early Binding in Java refers to a process where the compiler determines 
+the type of object and resolves the method during the compile-time. 
+Generally, the compiler binds the overloaded methods using static binding.
+When the compiler resolves the method call binding during the execution of the program, 
+such a process is known as Dynamic or Late Binding in Java. 
+We also call Dynamic binding as Late Binding because binding takes place during 
+the actual execution of the program.
